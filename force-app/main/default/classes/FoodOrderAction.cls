@@ -103,4 +103,8 @@ public without sharing class FoodOrderAction {
     public static void gitTestMethodTwo(){
         system.debug('This is a test method for git interaction');
     }
+
+    public static void gitTestMethodThree(){
+        system.debug('This is a test method for git interaction');
+    }
 }
