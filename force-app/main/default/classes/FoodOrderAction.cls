@@ -95,4 +95,8 @@ public without sharing class FoodOrderAction {
         results.add(result);
         return results;
     }
+
+    public static void gitTestMethod(){
+        system.debug('This is a test method for git interaction');
+    }
 }
